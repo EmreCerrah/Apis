@@ -1,36 +1,44 @@
 {
-  "products": [
+"categories": [
     {
       "id": 1,
-      "categoryId": 2,
-      "productName": "Chai",
-      "quantityPerUnit": "48 - 6 oz jars",
-      "unitPrice": "24",
-      "unitsInStock": 53
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
     },
     {
       "id": 2,
-      "categoryId": 1,
-      "productName": "Chang",
-      "quantityPerUnit": "24 - 12 oz bottles",
-      "unitPrice": "21",
-      "unitsInStock": 17
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections",
+      "seoUrl": "confections"
     },
     {
       "id": 4,
-      "categoryId": 1,
-      "productName": "Chef Anton's Cajun Seasoning",
-      "quantityPerUnit": "48 - 6 oz jars",
-      "unitPrice": "222",
-      "unitsInStock": 53
+      "categoryName": "Dairy Products",
+      "seoUrl": "dairy-products"
     },
     {
       "id": 5,
-      "categoryId": 2,
-      "productName": "Chef Anton's Gumbo Mix",
-      "quantityPerUnit": "36 boxes",
-      "unitPrice": "21",
-      "unitsInStock": 0
+      "categoryName": "Grains/Cereals",
+      "seoUrl": "grains-cereals"
+    },
+    {
+      "id": 6,
+      "categoryName": "Meat/Poultry",
+      "seoUrl": "meat-poultry"
+    },
+    {
+      "id": 7,
+      "categoryName": "Produce",
+      "seoUrl": "produce"
+    },
+    {
+      "id": 8,
+      "categoryName": "Seafood",
+      "seoUrl": "seafood"
     }
   ]
 }
